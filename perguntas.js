@@ -28,8 +28,6 @@ criaCartao(
     'Tenho 12 primos (4.3 = 12), porque um dos filhos do meu avô é o meu pai, que tem 3 filhos (eu e meus 2 irmãos).'
 )
 
-)
-
 criaCartao(
     'História',
     'Quantos anos durou a guerra de 100 anos?',
